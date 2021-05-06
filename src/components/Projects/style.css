@@ -1,0 +1,11 @@
+.works {
+  flex-grow: 1;
+  background-color:rgb(185, 187, 186)
+}
+.margins{
+  margin-left:10px;
+  margin-top:20px;
+}
+.works h1 {
+  margin-bottom: 20px;
+}

@@ -1,0 +1,11 @@
+.about {
+  flex-grow: 1;
+  background-color:rgb(185, 187, 186)
+}
+ 
+p{
+  font-size: 20px;
+  font-weight:700;
+  margin-top:20px;
+  margin-left:10px;
+}
